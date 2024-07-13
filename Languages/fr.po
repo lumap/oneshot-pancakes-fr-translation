@@ -1,5 +1,4 @@
 # Translation template for OneShot
-
 msgid ""
 msgstr ""
 
