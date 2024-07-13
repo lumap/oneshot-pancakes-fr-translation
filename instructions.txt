@@ -1,0 +1,57 @@
+These instructions are mostly copied from this steam thread (https://steamcommunity.com/app/420530/discussions/2/3598968030055831716/) since it's basically the same process.
+
+========================================
+How to create a Fan Translation:
+========================================
+This is a guide on how to create a localization for "OneShot: The Pancake Episode". With these instructions pretty much anyone should be able to create a localization for OneShot TPE all on their own.
+
+========================================
+Decide on a language code:
+========================================
+This should be 2 to 5 characters long, preferably lowercase. Also, it is recommended you use the existing ISO 639-1 language code for your language if it already exists, since this is what the game will read from the computer (or steam) to determine what language to use by default. For example, for Dutch the language code would be "nl". You can see a list of most language codes here: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+
+========================================
+Add your language to "language_fonts.ini"
+========================================
+Located in the "Languages" folder, this is the main file the game uses to decide what languages actually exist for the game. It's also where you define what font the game will use. For languages that use the Latin alphabet, you should be fine using "Terminus (TTF)", but if your language has special characters not supported by the existing fonts, you'll need to add your font to the "Fonts" folder. Any true type font (.ttf) should work, and the game will automatically scan this folder on start and load the fonts here.
+
+The line you add here will be in the format of "{language_code}={font_name}".  It needs to be on its own separate line from the other entries (there should be one line already in the file for English).
+
+========================================
+Add your language to the internal "language_fonts.ini" and "language_sizes.ini":
+========================================
+These files are located in the "Languages/internal" folder. They're in a similar format to the main "language_fonts.ini", but these files specify what font and font size the Input settings menu uses. Just like with the other file, the font you specify here needs to be in the "Fonts" folder.
+
+The line you add to language_fonts.ini will be in the format of "{language_code}={font_name}", and in languages_sizes.ini will be in the format of "{language_code}={font_size}"
+
+========================================
+Create the main .po file for your language
+========================================
+In the "Languages" folder, you'll need to create a po file for your language, with the name formatted like "{language_code}.po" (for example, "nl.po" for Dutch). Use the "template.po" file as the basis for your po file by making a copy of it and renaming it for your language code.
+
+This file contains the majority of the text in the game that needs to be translated. It acts as a string map, mapping the original English strings in the game to the target language's strings. The game reads this .po file as is, so you don't need to worry about doing anything to compile it to a .loc file (which is how the game used to handle localizations). For editing this file I'd recommend either using poedit or a simple text editor like notepad++. "msgid" is the original english string, and "msgstr" is the translation for it.
+
+Also if the target language is one that was localized in the Steam release of OneShot it can be a good idea to reference the existing po file for that release when creating one for TPE, since TPE shares some common strings with the original OneShot release (for example, the strings used in the title screen and settings menu).
+
+========================================
+Create the internal .po file for your language
+========================================
+In the "Languages/internal" folder, you'll need to create another po file for your language, with the name formatted like "{language_code}.po" (for example, "nl.po" for Dutch). Like before, you based this off of the "template.po" file that's been provided in the folder.
+
+Unlike the main .po file, I would recommend NOT using poedit for this file, but just using a simple text editor like notepad++. This is because the game expects the strings in this file to be in a very specific order, and poedit has a habit of adding an empty msgid/msgstr pair to the beginning of the file to store some metadata. So do not use poedit for this file.
+
+========================================
+Image files that need to be localized
+========================================
+Some of the Pictures used in the game need to be localized.  Within this download is included a folder of those pictures, in PSD format.  These psd files have a layer of the image with and without text, to make for easier editing.
+
+These pictures will need to be placed in a subfolder in the Picture folders, with the subfolder name being the language code.  For example, if the original picture was seq3_3, and the localized language code was "ja", then the original filepath for the picture would be "Pictures/seq3_3.png", and the localized image's filepath would be "Pictures/ja/seq3_3.png".
+
+
+========================================
+Packaging and Distribution
+========================================
+I'm not actually very familiar with how people distribute fanmade mods or patchs for games these days, but Clickteam's Patch Maker might be a good start for figuring out how to make a patch for your language, once you've finished making your changes.
+
+And once you have your translation complete and packed up, you can then distribute it via some file-sharing service (like google drive or something). Also, please ONLY distribute the files you've modified, and not the entire game directory containing the base game.  
+If you want the translation to be bundled with the base game you can reach out to me via "x.com" DMs (@GIRakaCHEEZER) and maybe we can work something out.
