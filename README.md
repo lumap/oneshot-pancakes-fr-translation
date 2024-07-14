@@ -1,17 +1,23 @@
 # oneshot-pancakes-fr-translation
-This is a fan French translation of OneShot: The Pancakes Episode.
+Ceci est une traduction française faite par des fans de OneShot : L'Épisode des Pancakes.
 
-## How to use
-Drag the Languages and Pictures folder into the game's directory. Replace the existing files if prompted. If you have other fan translations installed, you may need to manually merge the contents of the .ini files in the Languages folder.
+## Comment l'utiliser
+Glissez les dossiers Languages et Pictures dans le répertoire du jeu. Remplacez les fichiers existants si cela est demandé. Si vous avez d'autres traductions de fans installées, vous devrez peut-être fusionner manuellement le contenu des fichiers .ini dans le dossier Langues.
 
-## How to contribute
+## Comment contribuer
 
-### Text
-The files to fill/check are `Languges/fr.po` and `Languages/internal/fr.po`. The original English string is `msgid "text here"`, the translated string goes to `msgstr "texte ici"`. If you're unsure about a translation, you can leave a comment by prefixing the line with a `# `.
+### Texte
 
-The official OneShot translations (from the Steam version's files) are included in the `Translation Assets/Languages` folder as a reference.
+> Les traductions officielles de OneShot (prises de la version Steam) sont incluses dans le dossier `Translation Assets/Languages` à titre de référence.
 
-### Pictures
-You will need Photoshop for this. The psd files are in the `Translation Assets/Pictures` folder.
+Les fichiers à remplir/vérifier sont `Languages/fr.po` et `Languages/interne/fr.po`. Le texte anglais original est dans `msgid "text here"`, le texte traduit va dans `msgstr "texte ici"`. 
 
-The psd files contain the original english file on a layer and the empty file on top. You can translate the text on the empty file. Once you're done, export it as a `png` and place it in the `Pictures/fr/` folder.
+Utilisez un éditeur de texte comme Notepad++ pour éditer les fichiers `.po`.
+
+Si vous n'êtes pas sûr d'une traduction, vous pouvez laisser un commentaire en préfixant la ligne avec un `# `.
+
+
+### Images
+Vous aurez besoin de Photoshop pour cela. Les fichiers psd se trouvent dans le dossier `Translation Assets/Pictures`.
+
+Les fichiers psd contiennent le fichier anglais original sur un calque et le fichier vide par-dessus. Vous pouvez traduire le texte sur le fichier vide. Une fois que vous avez terminé, exportez-le en tant que `png` et placez-le dans le dossier `Pictures/fr/`.
