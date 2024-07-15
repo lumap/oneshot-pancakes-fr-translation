@@ -3293,7 +3293,7 @@ msgstr "Écriture : nightmargin\\nMusique : nightmargin, GIRakaCHEEZER\\nRecette
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:346:text
 msgid "OneShot original concept: Nightmargin, Eliza Velasquez, and GIRakaCHEEZER\\nNiko Plush: Available on fangamer!\\nAnniversary merch: mothparfait.bigcartel.com"
-msgstr "Concept original de OneShot : Nightmargin, Eliza Velasquez, et GIRakaCHEEZER\\nPeluche de Niko : Disponible sur fangamer !\\nProduits dérivés d'anniversaire : mothparfait.bigcartel.com"
+msgstr "Concept original de OneShot : Nightmargin, Eliza Velasquez, et GIRakaCHEEZER\\nPeluche de Niko : Disponible sur fangamer !\\nProduits dérivés d'anniversaire : mothparfait.bigcartel.com\\nTraduction française par Straky, Lumap et TECHNOTIPS"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:347:text
 msgid "SEE YOU NEXT TIME!"
