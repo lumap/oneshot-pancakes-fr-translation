@@ -1,6 +1,11 @@
 # Translation template for OneShot
+
 msgid ""
 msgstr ""
+
+# Language code
+msgid "fr"
+msgstr "Français"
 
 #. actor name
 #: Actors:1
@@ -30,12 +35,12 @@ msgstr "invisible"
 #. actor name
 #: Actors:6
 msgid "Plight"
-msgstr "Plight"
+msgstr "Pligue"
 
 #. actor name
 #: Actors:7
 msgid "Cedric"
-msgstr "Cedric"
+msgstr "Cédric"
 
 #. actor name
 #: Actors:8
@@ -50,7 +55,7 @@ msgstr "DEBUG SAVE"
 #. item description
 #: Items:54
 msgid "USE THIS TO SAVE"
-msgstr "UTILISER CECI POUR SAUVEGARDER"
+msgstr "UTILISE ÇA POUR SAUVEGARDER"
 
 #. item name
 #: Items:79
@@ -60,7 +65,7 @@ msgstr "Recette de Pancakes"
 #. item description
 #: Items:79
 msgid "How to make mama's special pancakes!"
-msgstr "Comment faire les pancakes spéciaux de maman!"
+msgstr "Comment faire les pancakes spéciaux de maman !"
 
 #: Scripts/Window_Item:99
 msgid "No item selected."
@@ -96,7 +101,7 @@ msgstr "Saut d'images"
 
 #: Scripts/Window_Settings:132
 msgid "Language"
-msgstr "Langues"
+msgstr "Langue"
 
 #: Scripts/Window_Settings:133
 msgid "Configure Controls (Press F1)"
@@ -108,7 +113,7 @@ msgstr "Paramètres"
 
 #: Scripts/Window_Settings:149 Scripts/Window_Settings:229
 msgid "POT_VERSION"
-msgstr "POT_VERSION"
+msgstr "fr.1"
 
 #: Scripts/Window_Settings:179 Scripts/Window_Settings:191 Scripts/Window_Settings:197 Scripts/Window_Settings:203
 msgid "ON"
@@ -128,7 +133,7 @@ msgstr "MARCHER"
 
 #: Scripts/Window_NameInput:117
 msgid "Press X to delete characters (default controls)"
-msgstr "Appuyez sur X pour supprimer des caractères (contrôles par défaut)"
+msgstr "Appuyez sur X pour supprimer un caractères (contrôles par défaut)"
 
 #: Scripts/Window_MainMenu:135
 msgid "You cannot fast travel right now."
@@ -136,7 +141,7 @@ msgstr "Vous ne pouvez pas voyager rapidement pour le moment."
 
 #: Scripts/Scene_Title:78 Scripts/Scene_Title:138
 msgid "Start"
-msgstr "Démarrer"
+msgstr "Commencer"
 
 #: Scripts/Scene_Title:81 Scripts/Scene_Title:141
 msgid "Exit"
@@ -156,7 +161,7 @@ msgstr "Non"
 
 #: Scripts/i18n_English:39
 msgid "Англ."
-msgstr "Англ."
+msgstr "Англ"
 
 #: Scripts/i18n_English:39
 msgid "Рус."
@@ -164,11 +169,11 @@ msgstr "Рус."
 
 #: Scripts/i18n_English:60
 msgid "Upper"
-msgstr "MAJ"
+msgstr "Supérieur"
 
 #: Scripts/i18n_English:60
 msgid "Lower"
-msgstr "MIN"
+msgstr "Inférieur"
 
 #: Scripts/Script:19
 msgid "NAME_SWEARS"
@@ -192,11 +197,11 @@ msgstr "poo,caca,popo,pee,pipi,fart,pet,stinky,put,piss,poop,slimy,gluant"
 
 #: Scripts/EdText:3
 msgid "Do you understand what this means?"
-msgstr "Comprenez-vous ce que cela veut dire?"
+msgstr "Comprenez-vous ce que cela veut dire ?"
 
 #: CommonEvents/DEBUG SAVE:0:choice:0
 msgid "SAVE?"
-msgstr "SAUVEGARDER?"
+msgstr "SAUVEGARDER ?"
 
 #: CommonEvents/DEBUG SAVE:0:choice:1
 msgid "LOAD"
@@ -204,7 +209,7 @@ msgstr "CHARGER"
 
 #: CommonEvents/DEBUG SAVE:0:choice:2
 msgid "REAL LOAD"
-msgstr "VRI CHARGEMENT"
+msgstr "VRAI CHARGEMENT"
 
 #: CommonEvents/DEBUG SAVE:0:choice:3
 msgid "NO"
@@ -212,7 +217,7 @@ msgstr "NON"
 
 #: CommonEvents/plight is waiting:4:text
 msgid "@plight_worry 1 minute."
-msgstr "@plight_worry une minute."
+msgstr "@plight_worry 1 minute."
 
 #: CommonEvents/plight is waiting:7:text
 msgid "@plight_worry \\v[29] minutes."
@@ -220,15 +225,15 @@ msgstr "@plight_worry \\v[29] minutes."
 
 #: CommonEvents/plight is waiting:14:text
 msgid "@plight_worry 1 minute and 1 second."
-msgstr "@plight_worry une minute et une seconde."
+msgstr "@plight_worry 1 minute et 1 seconde."
 
 #: CommonEvents/plight is waiting:17:text
 msgid "@plight_worry \\v[29] minutes and 1 second."
-msgstr "@plight_worry \\v[29] minutes et une seconde."
+msgstr "@plight_worry \\v[29] minutes et 1 seconde."
 
 #: CommonEvents/plight is waiting:23:text
-msgid "@plight_worry une minute and \\v[30] seconds."
-msgstr ""
+msgid "@plight_worry 1 minute and \\v[30] seconds."
+msgstr "@plight_worry 1 minute et \\v[30] secondes."
 
 #: CommonEvents/plight is waiting:26:text
 msgid "@plight_worry \\v[29] minutes and \\v[30] seconds."
@@ -236,35 +241,35 @@ msgstr "@plight_worry \\v[29] minutes et \\v[30] secondes."
 
 #: CommonEvents/ling random dialogue:3:text
 msgid "@niko Pancakes are MY favorite food,\\> \\@niko_speak but what's yours?"
-msgstr "@niko Les pancakes sont MON plat préféré,\\> \\@niko_speak mais quel est le tien?"
+msgstr "@niko Les pancakes sont MON plat préféré,\\> \\@niko_speak mais quel est le tien ?"
 
 #: CommonEvents/ling random dialogue:4:text
 msgid "@ling_hm Good question!\\>\\n\\@ling I'm not sure if I have one..."
-msgstr "@ling_hm Bonne question!\\>\\n\\@ling Je ne suis pas sûr d'en avoir un..."
+msgstr "@ling_hm Bonne question !\\>\\n\\@ling Je ne suis pas sûr d'en avoir un'..."
 
 #: CommonEvents/ling random dialogue:5:text
 msgid "@ling_smile ...because it changes all the time!"
-msgstr "@ling_smile ...parce que ça change tout le temps!"
+msgstr "@ling_smile ...parce que ça change tout le temps !"
 
 #: CommonEvents/ling random dialogue:9:text
 msgid "@ling Have you ever had steamed buns, Niko?"
-msgstr "@ling As-tu déjà mangé des brioches cuites à la vapeur, Niko?"
+msgstr "@ling As-tu déjà mangé des brioches cuites à la vapeur, Niko ?"
 
 #: CommonEvents/ling random dialogue:10:text
 msgid "@ling_smile I've been making them a lot lately!"
-msgstr "@ling_smile J'en ai fait beaucoup dernièrement!"
+msgstr "@ling_smile J'en ai fait beaucoup dernièrement !"
 
 #: CommonEvents/ling random dialogue:11:text
 msgid "@niko_speak I've only heard of them!\\>\\n\\@niko5 Is it like bread?"
-msgstr "@niko_speak Je n'en ai entendu parler!\\>\\n\\@niko5 Est-ce comme du pain?"
+msgstr "@niko_speak J'en ai seulement entendu parler !\\>\\n\\@niko5 Est-ce comme du pain ? "
 
 #: CommonEvents/ling random dialogue:12:text
 msgid "@ling Kinda! But most of them have things inside."
-msgstr "@ling Un peu! Mais la plupart ont des choses à l'intérieur."
+msgstr "@ling Un peu ! Mais plupart ont des choses à l'intérieur."
 
 #: CommonEvents/ling random dialogue:13:text
 msgid "@niko2 Bread has things inside it too!"
-msgstr "@niko2 Le pain a aussi des choses à l'intérieur!"
+msgstr "@niko2 Le pain a aussi des trucs dedans !"
 
 #: CommonEvents/ling random dialogue:14:text
 msgid "@niko_83c Like flour."
@@ -272,67 +277,67 @@ msgstr "@niko_83c Comme de la farine."
 
 #: CommonEvents/ling random dialogue:18:text
 msgid "@ling_hm Sometimes I like to mix sugar in my water before I drink it."
-msgstr "@ling_hm Parfois, j'aime mélanger du sucre dans mon eau avant de la boire."
+msgstr "@ling_hm Sometimes J'aime mélanger du sucre dans mon eau avant de la boire."
 
 #: CommonEvents/ling random dialogue:19:text
 msgid "@niko_83c I do that with syrup and milk!"
-msgstr "@niko_83c Je fais ça avec du sirop et du lait!"
+msgstr "@niko_83c Je fais ça avec du sirop et du lait !"
 
 #: CommonEvents/ling random dialogue:23:text
 msgid "@ling_oh I gotta admit, I had trouble finding hazelnut flour... \\>\\@ling_smile So I just made my own!"
-msgstr "@ling_oh Je dois admettre que j'ai eu du mal à trouver de la farine de noisette... \\>\\@ling_smile Alors j'ai juste fait la mienne!"
+msgstr "@ling_oh Je dois admettre, j'ai eu du mal à trouver de la farine de noisette... \\>\\@ling_smile Alors j'ai juste fait la mienne !"
 
 #: CommonEvents/ling random dialogue:24:text
 msgid "@niko_speak Oh, that's what mama does too!"
-msgstr "@niko_speak Oh, c'est ce que maman fait aussi!"
+msgstr "@niko_speak Oh, c'est ce que maman fait aussi !"
 
 #: CommonEvents/ling random dialogue:25:text
 msgid "@niko5 She uses a motor and pesto for it."
-msgstr ""
+msgstr "@niko5 Elle utilise un mixeur et du pesto pour ça."
 
 #: CommonEvents/ling random dialogue:26:text
 msgid "@proto1b [Mortar and pestle.]"
-msgstr ""
+msgstr "@proto1b [Mortier et pilon.]"
 
 #: CommonEvents/ling random dialogue:27:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:80:text
 msgid "@niko_eyeclosed ...I knew that!"
-msgstr ""
+msgstr "@niko_eyeclosed ...Je le savais !"
 
 #: CommonEvents/ling random dialogue:28:text
 msgid "@ling_smile I just use a food processor!"
-msgstr ""
+msgstr "@ling_smile J'utilise simplement un robot de cuisine !"
 
 #: CommonEvents/ling random dialogue:29:text
 msgid "@ling_hm You think it would work with almond flour too?"
-msgstr ""
+msgstr "@ling_hm Tu penses que ça pourrait aussi le faire avec de la farine d'amande ?"
 
 #: CommonEvents/ling random dialogue:30:text
 msgid "@niko_speak Probably!"
-msgstr ""
+msgstr "@niko_speak Probablement !"
 
 #: CommonEvents/ling random dialogue:31:text
 msgid "@niko_eyeclosed But I like hazelnuts!"
-msgstr ""
+msgstr "@niko_eyeclosed Mais je préfère les noisettes !"
 
 #: CommonEvents/ling random dialogue:34:text
 msgid "@niko I know fire is dangerous, but I like looking at it!"
-msgstr ""
+msgstr "@niko Je sais que le feu c'est dangereux, mais j'aime y regarder !"
 
 #: CommonEvents/ling random dialogue:35:text
 msgid "@ling_smile I know!"
-msgstr ""
+msgstr "@ling_smile Je sais !"
 
 #: CommonEvents/ling random dialogue:36:text
 msgid "@ling Did you know that you can start a fire with just sunlight and a magnifying glass?"
-msgstr ""
+msgstr "@ling Savais-tu que tu pouvais démarrer un feu juste avec les rayons du soleil et une loupe ?"
 
 #: CommonEvents/ling random dialogue:37:text
 msgid "@niko_pancakes REALLY??"
-msgstr ""
+msgstr "VRAIMENT ??"
 
 #: CommonEvents/ling random dialogue:38:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV017:3:3:text
 msgid "@ling_smile Yup!"
-msgstr ""
+msgstr "@ling_smile Ouaip !"
 
 #: CommonEvents/ling random dialogue:39:text
 msgid "@ling But don't try it on your own, okay?"
