@@ -2,7 +2,7 @@
 Ceci est une traduction française faite par des fans de OneShot : L'Épisode des Pancakes.
 
 ## Comment l'utiliser
-Glissez les dossiers Languages et Pictures dans le répertoire du jeu. Remplacez les fichiers existants si cela est demandé. Si vous avez d'autres traductions de fans installées, vous devrez peut-être fusionner manuellement le contenu des fichiers .ini dans le dossier Langues.
+Glissez les dossiers Languages et Pictures dans le répertoire du jeu. Remplacez les fichiers existants si cela est demandé. Si vous avez d'autres traductions de fans installées, vous devrez peut-être fusionner manuellement le contenu des fichiers .ini dans le dossier Languages.
 
 ## Comment contribuer
 

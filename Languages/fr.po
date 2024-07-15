@@ -236,7 +236,7 @@ msgstr "@plight_worry \\v[29] minutes et \\v[30] secondes."
 
 #: CommonEvents/ling random dialogue:3:text
 msgid "@niko Pancakes are MY favorite food,\\> \\@niko_speak but what's yours?"
-msgstr "@niko Les pancakes sont MON plat préféré,\\> \\@niko_speak mais quel est le tien?"
+msgstr "@niko Les pancakes sont MON plat préféré,\\> \\@niko_speak mais quel est le tien ?"
 
 #: CommonEvents/ling random dialogue:4:text
 msgid "@ling_hm Good question!\\>\\n\\@ling I'm not sure if I have one..."
@@ -244,19 +244,19 @@ msgstr "@ling_hm Bonne question!\\>\\n\\@ling Je ne suis pas sûr d'en avoir un.
 
 #: CommonEvents/ling random dialogue:5:text
 msgid "@ling_smile ...because it changes all the time!"
-msgstr "@ling_smile ...parce que ça change tout le temps!"
+msgstr "@ling_smile ...parce que ça change tout le temps !"
 
 #: CommonEvents/ling random dialogue:9:text
 msgid "@ling Have you ever had steamed buns, Niko?"
-msgstr "@ling As-tu déjà mangé des brioches cuites à la vapeur, Niko?"
+msgstr "@ling As-tu déjà mangé des brioches cuites à la vapeur, Niko ?"
 
 #: CommonEvents/ling random dialogue:10:text
 msgid "@ling_smile I've been making them a lot lately!"
-msgstr "@ling_smile J'en ai fait beaucoup dernièrement!"
+msgstr "@ling_smile J'en ai fait beaucoup dernièrement !"
 
 #: CommonEvents/ling random dialogue:11:text
 msgid "@niko_speak I've only heard of them!\\>\\n\\@niko5 Is it like bread?"
-msgstr "@niko_speak Je n'en ai entendu parler!\\>\\n\\@niko5 Est-ce comme du pain?"
+msgstr "@niko_speak Je n'en ai entendu parler!\\>\\n\\@niko5 Est-ce comme du pain ?"
 
 #: CommonEvents/ling random dialogue:12:text
 msgid "@ling Kinda! But most of them have things inside."
@@ -264,7 +264,7 @@ msgstr "@ling Un peu! Mais la plupart ont des choses à l'intérieur."
 
 #: CommonEvents/ling random dialogue:13:text
 msgid "@niko2 Bread has things inside it too!"
-msgstr "@niko2 Le pain a aussi des choses à l'intérieur!"
+msgstr "@niko2 Le pain a aussi des choses à l'intérieur !"
 
 #: CommonEvents/ling random dialogue:14:text
 msgid "@niko_83c Like flour."
@@ -276,35 +276,35 @@ msgstr "@ling_hm Parfois, j'aime mélanger du sucre dans mon eau avant de la boi
 
 #: CommonEvents/ling random dialogue:19:text
 msgid "@niko_83c I do that with syrup and milk!"
-msgstr "@niko_83c Je fais ça avec du sirop et du lait!"
+msgstr "@niko_83c Je fais ça avec du sirop et du lait !"
 
 #: CommonEvents/ling random dialogue:23:text
 msgid "@ling_oh I gotta admit, I had trouble finding hazelnut flour... \\>\\@ling_smile So I just made my own!"
-msgstr "@ling_oh Je dois admettre que j'ai eu du mal à trouver de la farine de noisette... \\>\\@ling_smile Alors j'ai juste fait la mienne!"
+msgstr "@ling_oh Je dois admettre que j'ai eu du mal à trouver de la farine de noisette... \\>\\@ling_smile Alors j'ai juste fait la mienne !"
 
 #: CommonEvents/ling random dialogue:24:text
 msgid "@niko_speak Oh, that's what mama does too!"
-msgstr "@niko_speak Oh, c'est ce que maman fait aussi!"
+msgstr "@niko_speak Oh, c'est ce que maman fait aussi !"
 
 #: CommonEvents/ling random dialogue:25:text
 msgid "@niko5 She uses a motor and pesto for it."
-msgstr ""
+msgstr "@niko5 Elle utilise un mortier et un pilon pour ça."
 
 #: CommonEvents/ling random dialogue:26:text
 msgid "@proto1b [Mortar and pestle.]"
-msgstr ""
+msgstr "@proto1b [Mortier et pilon.]"
 
 #: CommonEvents/ling random dialogue:27:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:80:text
 msgid "@niko_eyeclosed ...I knew that!"
-msgstr ""
+msgstr "@niko_eyeclosed ...Je savais !"
 
 #: CommonEvents/ling random dialogue:28:text
 msgid "@ling_smile I just use a food processor!"
-msgstr ""
+msgstr "@ling_smile J'utilise juste un robot culinaire !"
 
 #: CommonEvents/ling random dialogue:29:text
 msgid "@ling_hm You think it would work with almond flour too?"
-msgstr ""
+msgstr "@ling_hm Tu penses que ça marcherait avec de la farine d'amande aussi ?"
 
 #: CommonEvents/ling random dialogue:30:text
 msgid "@niko_speak Probably!"
