@@ -241,7 +241,7 @@ msgstr "@plight_worry \\v[29] minutes et \\v[30] secondes."
 
 #: CommonEvents/ling random dialogue:3:text
 msgid "@niko Pancakes are MY favorite food,\\> \\@niko_speak but what's yours?"
-msgstr "@niko Les pancakes sont MON plat préféré,\\> \\@niko_speak mais quel est le tien ?"
+msgstr "@niko Les pancakes sont MON plat préféré,\\> \\@niko_speak mais quel est le vôtre ?"
 
 #: CommonEvents/ling random dialogue:4:text
 msgid "@ling_hm Good question!\\>\\n\\@ling I'm not sure if I have one..."
@@ -297,7 +297,7 @@ msgstr "@niko5 Elle utilise un mixeur et du pesto pour ça."
 
 #: CommonEvents/ling random dialogue:26:text
 msgid "@proto1b [Mortar and pestle.]"
-msgstr "@proto1b [Mixeur et pesto.]"
+msgstr "@proto1b [Mortier et pilon.]"
 
 #: CommonEvents/ling random dialogue:27:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV020:3:80:text
 msgid "@niko_eyeclosed ...I knew that!"
@@ -341,663 +341,663 @@ msgstr "@ling_smile Ouaip !"
 
 #: CommonEvents/ling random dialogue:39:text
 msgid "@ling But don't try it on your own, okay?"
-msgstr ""
+msgstr "@ling Mais n'essaie pas tout seul, okay ?"
 
 #: CommonEvents/ling random dialogue:40:text
 msgid "@niko_eyeclosed Of course not!"
-msgstr ""
+msgstr "@niko_eyeclosed Bien sûr que non !"
 
 #: CommonEvents/ling random dialogue:41:text
 msgid "@niko5 (But for some reason, all of a sudden I wish I still had the sun...)"
-msgstr ""
+msgstr "@niko5 (Mais pour certaines raisons, tout à coup j'aurais aimé avoir le soleil...)"
 
 #: CommonEvents/ling random dialogue:42:text
 msgid "@proto2 [I'm surrounded by lunatics.]"
-msgstr ""
+msgstr "@proto2 [Je suis entouré de fous.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:1:text
 msgid "@ling_smile This is the kitchen!"
-msgstr ""
+msgstr "@ling_smile Voici la cuisine !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:2:text
 msgid "@ling I cleaned it up pretty good.\\> \\@ling_smile You'd never know that we had a fire last week!"
-msgstr ""
+msgstr "@ling Je l'ai bien nettoyée.\\> \\@ling_smile T'aurais jamais su qu'on avait eu un incendie la semaine dernière !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:3:text
 msgid "@niko_what Another one?"
-msgstr ""
+msgstr "@niko_what Encore un ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:4:text
 msgid "@ling_sigh Right?"
-msgstr ""
+msgstr "@ling_sigh Tu vois ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:1:5:text
 msgid "@ling_hm Robots are surprisingly flammable."
-msgstr ""
+msgstr "@ling_hm Les robots sont surprenamment inflammables"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:1:text
 msgid "@ling_hm2 My coworkers aren't here because they're still getting repaired for fire damage, so we won't have extra help today."
-msgstr ""
+msgstr "@ling_hm2 Mes collègues ne sont pas là car ils sont toujours en répération pour dégats de feu, nous n'auront donc pas d'aide supplémentaire aujourd'hui."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:2:text
 msgid "@ling Do you think you can handle it?"
-msgstr ""
+msgstr "@ling Penses-tu pouvoir le faire ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:3:text
 msgid "@niko_speak Of course! I help mama out in the kitchen all the time!"
-msgstr ""
+msgstr "@niko_speak Bien sûr ! J'aide tout le temps maman en cuisine !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:4:text
 msgid "@niko_pancakes ESPECIALLY when making pancakes!"
-msgstr ""
+msgstr "@niko_pancakes SURTOUT lorsqu'il sagit de faire des pancakes ! "
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:5:text
 msgid "@niko_83c I even wrote down the recipe!"
-msgstr ""
+msgstr "@niko_83c J'ai même écrit la recette !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:11:text
 msgid "@ling_shock Whoa! So many pages!"
-msgstr ""
+msgstr "@ling_shock Wow ! Tellement de pages !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:12:text
 msgid "@ling_hm And... surprisingly legible (for crayon)."
-msgstr ""
+msgstr "@ling_hm Et... surprenamment lisible (pour des crayons)."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:13:text
 msgid "@niko_eyeclosed Like I said, these pancakes are VERY special! So I wrote a lot!"
-msgstr ""
+msgstr "@niko_eyeclosed Comme je l'ai dit, ces pancakes sont TRÈS spéciaux, "
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:14:text
 msgid "@niko_pancakes It takes mama a long time to make, start to finish!"
-msgstr ""
+msgstr "@niko_pancakes Ça prend du temps à maman de les faires, du début à la fin !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:15:text
 msgid "@niko_speak She even makes the syrup herself!"
-msgstr ""
+msgstr "@niko_speak Elle fait même le sirop elle même !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:16:text
 msgid "@ling_smile Wow! \\>\\@ling Sounds like a lot of work!"
-msgstr ""
+msgstr "@ling_smile Wow ! \\>\\@ling Ça semble être beaucoup de travail"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:17:text
 msgid "@niko_eyeclosed Sometimes... in life.... you gotta work hard..."
-msgstr ""
+msgstr "@niko_eyeclosed Dès fois... dans la vie... tu dois travailler dur..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:18:text
 msgid "@ling Oh!\\> It says here that we would need \"cups\" of things?"
-msgstr ""
+msgstr "@ling Oh!\\> Ça dit ici qu'on aurait besoin de \"verres\" de choses ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:19:text
 msgid "@ling_hm What are....\\> \"cups\"?"
-msgstr ""
+msgstr "@ling_hm C'est quoi des....\\> \"verres\"?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:20:text
 msgid "@niko_speak ..."
-msgstr ""
+msgstr "@niko_speak ..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:21:text
 msgid "@ling_oh ..."
-msgstr ""
+msgstr "@ling_oh ..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:22:text
 msgid "@niko_what2 Measuring...\\> cups?"
-msgstr ""
+msgstr "@niko_what2 Verre...\\> doseurs ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:23:text
 msgid "@ling_shock You have to measure cups?"
-msgstr ""
+msgstr "@ling_shock Avez-vous des verres doseurs ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:24:text
 msgid "@ling_hm2 ...not sure if I get it!"
-msgstr ""
+msgstr "@ling_hm2 ...pas sûr si j'en ai !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:25:text
 msgid "@niko_what ...\\>don't you cook for your job?"
-msgstr ""
+msgstr "@niko_what ...\\>cuisinez-vous pas pour votre travail ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:26:text
 msgid "@niko_what2 How do you cook without measuring cups?\\> Or measuring spoons?"
-msgstr ""
+msgstr "@niko_what2 Comment cusinez-vous sans verres doseurs ?\\> Ou des cuillières doseuses ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:27:text
 msgid "@niko_what How do you know how much flour to use?"
-msgstr ""
+msgstr "@niko_what Comment savez-vous combien de farine utiliser ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:28:text
 msgid "@ling_hm I...\\> weigh it?"
-msgstr ""
+msgstr "@ling_hm J'y...\\> pèse ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:29:text
 msgid "@niko_speak ...Oh yeah!"
-msgstr ""
+msgstr "@niko_speak ...Oh ouais !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:30:text
 msgid "@niko6 I hear that people in the city do that!"
-msgstr ""
+msgstr "@niko6 J'ai entendu que les gens de la ville dont ça !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:31:text
 msgid "@niko_eyeclosed Sounds like a hassle...\\>\\nThey'd have to use a scale every time they cook...."
-msgstr ""
+msgstr "@niko_eyeclosed On dirait que c'est un problème...\\>\\nIls doivent utiliser une balance chaque fois qu'ils cuisinent...."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:32:text
 msgid "@ling_smile Well, we do live in a city!"
-msgstr ""
+msgstr "@ling_smile Eh bien, nous vivons dans une ville !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:33:text
 msgid "@niko_speak Nono, not YOUR city, MY city!"
-msgstr ""
+msgstr "@niko_speak Nonon, pas VOTRE ville, la MIENNE !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:34:text
 msgid "@niko6 The cities we have back home!"
-msgstr ""
+msgstr "@niko6 Les villes que vous avons chez nous !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:35:text
 msgid "@ling Right!"
-msgstr ""
+msgstr "@ling Je vois !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:36:text
 msgid "@niko5 Using a scale all the time sounds hard!"
-msgstr ""
+msgstr "@niko5 Utiliser une balance tout le temps à l'air difficile !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:37:text
 msgid "@niko_eyeclosed It'd be much easier if we had measuring cups and spoons..."
-msgstr ""
+msgstr "@niko_eyeclosed Ça serait bien plus facile si nous avions des verres et cuillères doseurs"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:38:text
 msgid "@ling_oh I still don't know what those are, though!"
-msgstr ""
+msgstr "@ling_oh Je ne sais toujours pas ce que sont ses choses !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:39:text
 msgid "@ling_hm Like, amount-wise."
-msgstr ""
+msgstr "@ling_hm Like, en terme de montant."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:40:text
 msgid "@niko5 ...Maybe we need to get some help."
-msgstr ""
+msgstr "@niko5 ...Peut-être que nous avons besoin d'un peu d'aide."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:41:text
 msgid "@niko_eyeclosed Hold on."
-msgstr ""
+msgstr "@niko_eyeclosed Attendez."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:54:text
 msgid "@ling_smile ...Oh, you brought a friend!"
-msgstr ""
+msgstr "@ling_smile ...Oh, tu as ramené un ami !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:55:text
 msgid "@niko_speak Yup! And he's willing to help us!"
-msgstr ""
+msgstr "@niko_speak Ouaip ! Et il se porte volontaire pour nous aider !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:56:text
 msgid "@proto2b [\"Willing\" isn't exactly the right word here.]"
-msgstr ""
+msgstr "@proto2b [\"Se porter volontaire\" n'est pas exactement la bonne expression ici.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:57:text Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:7:38:text
 msgid "@niko_83c ..."
-msgstr ""
+msgstr "@niko_83c ..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:4:text
 msgid "@ling2 Oh, hello!"
-msgstr ""
+msgstr "@ling2 Oh, salut !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:5:text
 msgid "@ling I don't think I've seen you around before.\\>\\n\\@ling_smile Nice to meet you!"
-msgstr ""
+msgstr "@ling Je ne sais pas si je t'ai déjà vu ici avant."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:8:text
 msgid "@proto2 [Don't get your hopes up.\\>\\n\\@proto1c I don't DO \"nice\".]"
-msgstr ""
+msgstr "@proto2 [Ne vous faites pas d'illusions.\\>\\n\\@proto1c Je ne fais PAS dans \"la gentillesse\".]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:9:text
 msgid "@niko_83c That's just what he wants you to think!"
-msgstr ""
+msgstr "@niko_83c C'est juste ce qu'il veut que tu penses !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:10:text
 msgid "@proto_jealous [Hush.]"
-msgstr ""
+msgstr "@proto_jealous [Chut.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:16:text
 msgid "@niko_speak Now that Proto's here to help us, we can continue!"
-msgstr ""
+msgstr "@niko_speak Maintenant que Proto est ici pour nous aider, nous pouvons continuer !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:21:text
 msgid "@ling_smile For those of you following along, you would need a gram scale!"
-msgstr ""
+msgstr "@ling_smile Pour ceux qui nous suivent, vous aurez besoin d'une balance de précision !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:22:text
 msgid "@niko_speak But if you have measuring cups and spoons like I do at home, you could use those instead!"
-msgstr ""
+msgstr "@niko_speak Mais si vous avez des verres doseurs et des cuillères comme moi à la maison, vous pouvez utiliser ces trucs à la place !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:23:text
 msgid "@niko_83c It would probably be a lot easier!"
-msgstr ""
+msgstr "@niko_83c Ça serait probablement bien plus facile !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:24:text
 msgid "@ling Next up is ingredients!"
-msgstr ""
+msgstr "@ling Ensuite, les ingrédients !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:28:text
 msgid "@ling_smile Since this recipe is so long, we should probably split it into 3 parts!"
-msgstr ""
+msgstr "@ling_smile Vu que cette recette est longue, nous devrions probablement la découper en 3 parties !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:31:text
 msgid "@ling_hm It kinda IS 3 recipes in one..."
-msgstr ""
+msgstr "@ling_hm C'est en QUELQUE SORTE 3 recettes en une..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:32:text Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:7:text
 msgid "@niko_speak That's what mama does!"
-msgstr ""
+msgstr "@niko_speak C'est ce que maman fait !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:33:text
 msgid "@niko_eyeclosed You have to do it in a specific order for the best results!"
-msgstr ""
+msgstr "@niko_eyeclosed Vous devez le faire dans un ordre spécifique pour le meilleur résultat !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:34:text
 msgid "@ling Okay! I'll go get everything ready!"
-msgstr ""
+msgstr "@ling Okay ! Je vais tout préparer !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:3:35:text
 msgid "@ling_hm (...quite the list we have here)"
-msgstr ""
+msgstr "@ling_hm (...voilà une sacrée liste)"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:3:text
 msgid "@niko5 ...I don't really know the other steps because it's on a stove."
-msgstr ""
+msgstr "@niko5 ...Je ne connais pas vraiment les autres car ça utilise une cusuinière."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:4:text
 msgid "@ling_smile Ok!\\> I'll take over then!"
-msgstr ""
+msgstr "@ling_smile Ok !\\> Je vais m'en charger alors !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:5:text
 msgid "@ling_hm Oh... right, we don't have the regular griddle right now.\\> It was damaged in the fire."
-msgstr ""
+msgstr "@ling_hm Oh... c'est vrai, nous n'avons pas de plaque de cuisson ordinaire pour le moment.\\> C'était endommagé par le feu"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:6:text
 msgid "@ling_smile I'll just have to make these in the pan!"
-msgstr ""
+msgstr "@ling_smile J'aurais juste à les faire sur la poêle !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:8:text
 msgid "@niko5 She uses a really heavy black pan for these.\\>\\nI think it's called a... \\>\\@niko6 cat's iron pan?"
-msgstr ""
+msgstr "@niko5 Elle utilise une très lourde poêle pour ceux-là.\\>\\nJe crois que ça s'appelle... \\>\\@niko6 une poêle avec une fente ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:9:text
 msgid "@ling_smile A \"cast\" iron pan?"
-msgstr ""
+msgstr "@ling_smile Une poêle en \"fonte\" ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:10:text
 msgid "@niko_speak That's the one!"
-msgstr ""
+msgstr "@niko_speak C'est ça !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:11:text
 msgid "@niko_eyeclosed Silly me....\\> We are not cats."
-msgstr ""
+msgstr "@niko_eyeclosed Quel idiot...\\> Il n'y a pas de fente."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:12:text
 msgid "@niko_speak Oh! And she adds a ton of butter to it!"
-msgstr ""
+msgstr "@niko_speak Oh ! Et elle y rajoute beaucoup de beurre !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:13:text
 msgid "@ling_hm We only have stainless steel pans right now, \\>\\@ling so butter would definitely help it not stick to the pan!"
-msgstr ""
+msgstr "@ling_hm Nous avons seulement des poêles inoxydables pour le moment, \\>\\@ling alors le beurre certainement à ce qu'il ne colle pas à la poêle !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:14:text
 msgid "@ling_sigh Though that might not make very smooth looking pancakes, butter tends to make it look more bubbly."
-msgstr ""
+msgstr "@ling_sigh Même si cela ne donne pas des pancakes très lisses, le beurre a tendance à les rendre plus mousseuses."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:15:text
 msgid "@niko_pancakes But it'll taste great!"
-msgstr ""
+msgstr "@niko_pancakes Mais ça aura bon goût !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:16:text
 msgid "@niko_83c I'd eat a stick of butter by itself if I could!"
-msgstr ""
+msgstr "@niko_83c Je mangerais un bâton de beurre moi même si je pourrais !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:17:text
 msgid "@ling_smile Well... we probably won't need THAT much butter for this batch!"
-msgstr ""
+msgstr "@ling_smile Eh bien... nous n'aurons probablement pas besoin D'AUTANT de beurre pour cette fournée !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:33:text
 msgid "@ling_hm Hmm... Since I usually make pancakes on a big nonstick griddle, I might be a little rusty doing it the old fashioned way..."
-msgstr ""
+msgstr "@ling_hm Hmm... Comme je fais habituellement les pancakes sur une grande plaque antiadhésive, il se peut que je sois un peu rouillé en les faisant à l'ancienne..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:34:text
 msgid "@ling_smile Unlike this pan, which doesn't rust because it's made of steel!"
-msgstr ""
+msgstr "@ling_smile Contrairement à cette casserole, qui ne rouille pas parce qu'elle est en acier !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:35:text
 msgid "@niko_83c Hehe!"
-msgstr ""
+msgstr "@niko_83c He he !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:37:text
 msgid "@ling_hm2 I'll start heating up the pan on medium heat with some butter."
-msgstr ""
+msgstr "@ling_hm2 Je vais commencer par chauffer la poêle à feu moyen avec un peu de beurre"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:38:text
 msgid "@proto2 [About 4 or 5 out of 9 on a standard stove.]"
-msgstr ""
+msgstr "@proto2 [Environ 4 ou 5 sur 9 sur une cuisinière standard.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:39:text
 msgid "@ling Give it maybe a couple minutes, then add a drop of water to the pan. If it sizzles, that means the pan is hot enough!"
-msgstr ""
+msgstr "@ling Donne lui quelques minutes, ensuite ajoute une goutte d'eau sur la poêle. Si ça grésille, cela signifie que la poêle est suffisamment chaude !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:40:text
 msgid "@niko_eyeclosed Scary..."
-msgstr ""
+msgstr "@niko_eyeclosed Effreyant..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:41:text
 msgid "@ling Then you lower the heat down a notch (to around 3) and...\\>\\n\\@ling_hm How much batter does your mom normally use?"
-msgstr ""
+msgstr "@ling Ensuite tu baisses un peu le feu (à environ 3) et...\>\\n\\@ling_hm Combien de beurre ta maman utilise-t-elle noralement ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:42:text
 msgid "@niko5 Let's see.... \\>\\@niko6 About a third of a cup?"
-msgstr ""
+msgstr "@niko5 Voyons voir... \\>\\@niko6 Environ, le tiers d'un verre ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:43:text
 msgid "@proto_eyeclosed [Conversion data for pancake batter not found in database.]"
-msgstr ""
+msgstr "@proto_eyeclosed [Données de conversation pour pâte à pancake introuvable dans la base de données.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:47:text
 msgid "@niko_speak Enough batter to make a pancake about 4 inches across!"
-msgstr ""
+msgstr "@niko_speak Assez de pâte pour faire un pancake de 10cm de diamère !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:48:text
 msgid "@niko5 So we'll end up with 5 or 6 pancakes."
-msgstr ""
+msgstr "@niko5 Donc nous finirons avec 5 ou 6 pancakes."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:49:text
 msgid "@niko6 You can make em bigger, \\>\\@niko_eyeclosed but they'll be harder to flip."
-msgstr ""
+msgstr "@niko6 Vous pouvez les faires plus gros, \\>\\@niko_eyeclosed mais ils seront plus dur à retourner."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:50:text
 msgid "@ling Ok, first pancake down, let's wait about 5 minutes for that to cook!"
-msgstr ""
+msgstr "@ling Ok, premier pencake de fait, attendons 5 minutes que ça cuise !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:54:text
 msgid "@ling Then you can slide a spatula under it.\\> If it feels solid enough to lift without collapsing, it's ready to flip, and..."
-msgstr ""
+msgstr "@ling Puis tu peux glisser une spatule en dessous.\\> Si ça a l'air assez solide pour le soulever sans tout casser, c'est prêt à être retourné, et..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:57:text
 msgid "@ling_what ...barely any color, \\>\\@ling_sigh I expected this."
-msgstr ""
+msgstr "@ling_what ...peu de couleur, \\>\\@ling_sigh je m'y attenais."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:58:text
 msgid "@niko_eyeclosed The first pancake is always ugly..."
-msgstr ""
+msgstr "@niko_eyeclosed Le premier pancake est toujours moche..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:59:text
 msgid "@ling Cook it for 4 more minutes on the other side, flip it, and.... \\>\\@ling_hm done?"
-msgstr ""
+msgstr "@ling Cuisine-le pour encore 4 minutes de l'autre côté, retourne-le, et... \\>\\@ling_hm c'est bon ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:63:text
 msgid "@ling_sigh Same on the other side too… I guess the pan isn’t hot enough yet."
-msgstr ""
+msgstr "@ling_sigh Pareil sur l'autre côté aussi… Je pense que la poêle n'est pas assez chaude."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:64:text
 msgid "@niko_speak That’s okay!"
-msgstr ""
+msgstr "@niko_speak C'est pas grave !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:65:text
 msgid "@niko_83c The messiah shall accept the ugly pancake as sacrifice."
-msgstr ""
+msgstr "@niko_83c Le messie doit accepter le pancake moche en tant que sacrifice."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:68:text
 msgid "@ling_smile Now to make the rest!"
-msgstr ""
+msgstr "@ling_smile Maintenant faisons le reste !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:69:text
 msgid "@niko_crumbs Don't forget to add more butter between each pancake!"
-msgstr ""
+msgstr "@niko_crumbs N'oublie pas de rajouter plus de beurre entre chaque pancake !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:70:text
 msgid "@ling_hm2 I'll crank the heat up a notch to 4 this time, maybe this'll help it brown better."
-msgstr ""
+msgstr "@ling_hm2 Je vais augmenter le feu d'un cran jusqu'à 4 cette fois-ci, ce qui permettra peut-être de mieux les faire dorer."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:71:text
 msgid "@ling_hm I don't want to turn it up too high because it might burn."
-msgstr ""
+msgstr "@ling_hm Je ne veut pas le mettre trop haut sinon ça risque de brûler."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:72:text
 msgid "@niko_crumbs Nothing's sadder than a burned pancake!"
-msgstr ""
+msgstr "@niko_crumbs Rien n'est plus triste qu'un pancake brûlé !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:73:text
 msgid "@ling_smile Every stove is different, though, so these definitely aren't hard numbers!"
-msgstr ""
+msgstr "@ling_smile Chaque cuisinière est différente, il ne s'agit donc pas de chiffres précis !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:76:text
 msgid "@ling Oh! This pancake turned out nicer!"
-msgstr ""
+msgstr "@ling Oh ! Ce pancake s'est avéré plus beau !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:77:text
 msgid "@ling_hm But the pan is too hot now, so if I add more butter now it'll explode."
-msgstr ""
+msgstr "@ling_hm Mais cette poêle est trop chaude maintenant, alors si on ajoute encore du beurre maintenant elle explosera."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:78:text
 msgid "@niko2 Scary!"
-msgstr ""
+msgstr "@niko2 Effrayant !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:82:text
 msgid "@proto2 [Because butter is an emulsion of fat and water, both of which do not mix with each other.]"
-msgstr ""
+msgstr "@proto2 [Parce que le beurre est une émulsion de graisse et d'eau, qui ne se mélangent pas entre elles.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:83:text
 msgid "@proto1c [The explosions are caused by the water rapidly turning into steam under high temperatures.]"
-msgstr ""
+msgstr "@proto1c [Les explosions sont provoquées par la transformation rapide de l'eau en vapeur sous l'effet de températures élevées.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:84:text
 msgid "@ling_smile Yup! That's why you don't put out a grease fire with water!"
-msgstr ""
+msgstr "@ling_smile Ouaip ! C'est pourquoi on n'éteint pas un feu de graisse avec de l'eau !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:89:text
 msgid "@ling ...I'll lower the heat back to 3 for now. \\>\\@ling_hm Guess we can just adjust the heat as we cook the rest."
-msgstr ""
+msgstr "@ling ...Je vais baisser le feu à 3 pour l'instant. \\>\\@ling_hm Je pense que nous pouvons tout simplement ajuster le feu pendant que nous cuisinons le reste."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:4:103:text
 msgid "@ling_smile Aaaand done!"
-msgstr ""
+msgstr "@ling_smile Eeeet prêt !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:1:text
 msgid "@ling_hm I should probably start the coffee machines..."
-msgstr ""
+msgstr "@ling_hm Je devrais probablement démarrer la machine à café..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:2:text
 msgid "@ling Do you want any, Niko?"
-msgstr ""
+msgstr "@ling Tu en veux un peu, Niko ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:3:text
 msgid "@niko_eyeclosed No thanks!\\>\\n\\@niko_speak Coffee is for grownups!"
-msgstr ""
+msgstr "@niko_eyeclosed Non merci !\\>\\n\\@niko_speak Le café c'est pour les adultes !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:4:text
 msgid "@niko_speak I heard it's really bitter!"
-msgstr ""
+msgstr "@niko_speak J'ai entendu que c'est très amer !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:5:text
 msgid "@ling Only if you drink it black!"
-msgstr ""
+msgstr "@ling Seulement si tu le bois noir !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:6:text
 msgid "@ling_smile You might like it in a decaf hazelnut cappucino or mocha latte, though!"
-msgstr ""
+msgstr "@ling_smile Tu pourrais l'aimer dans un cappucino de noisettes décaféiné ou un café latte !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:7:text
 msgid "@niko_eyeclosed I only understood one of those words!"
-msgstr ""
+msgstr "@niko_eyeclosed J'ai seulement compris un seul de tout ces mots !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:9:8:text
 msgid "@alula I like it black!"
-msgstr ""
+msgstr "@alula Je l'aime noir !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV002:1:1:text
 msgid "@ling This is the storage room!"
-msgstr ""
+msgstr "@ling C'est la réserve !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV002:1:2:text
 msgid "@ling_oh It's cold, so you shouldn't go in!"
-msgstr ""
+msgstr "@ling_oh C'est froid, alors tu ne devrais pas y aller !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV002:2:1:text
 msgid "@niko This is the... storage room?"
-msgstr ""
+msgstr "@niko Est-ce... la réserve ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:1:2:text
 msgid "@niko_speak It's the fridge!"
-msgstr ""
+msgstr "@niko_speak C'est le frigo !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:1:5:text
 msgid "@ling That's a fridge!"
-msgstr ""
+msgstr "@ling C'est le frigo !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:2:1:text
 msgid "@niko_speak A fancy coffee machine!"
-msgstr ""
+msgstr "@niko_speak Une chic machine à café !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:2:2:text
 msgid "@niko_eyeclosed Coffee is for grownups."
-msgstr ""
+msgstr "@niko_eyeclose Le café c'est pour les adultes."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:3:1:text
 msgid "@niko_eyeclosed I'm not allowed to use the stove by myself!"
-msgstr ""
+msgstr "@niko_eyeclosed Je ne suis pas autorisé à utiliser la cuisinière tout seul !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:4:2:text
 msgid "@niko_speak It's the sink!"
-msgstr ""
+msgstr "@niko_speak C'est l'évier !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:4:5:text
 msgid "@ling That's the sink!"
-msgstr ""
+msgstr "@ling C'est l'évier !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:5:1:text
 msgid "@niko These are mixing bowls for making pancake batter."
-msgstr ""
+msgstr "@niko Il s'agit de bols à mélanger pour préparer la pâte à crêpes."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:5:2:text
 msgid "@niko_eyeclosed We should make this after we make the candied hazelnuts and syrup!"
-msgstr ""
+msgstr "@niko_eyeclosed Nous devrions faire cela après avoir fait les noisettes confites et le sirop !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:5:3:text
 msgid "@niko_speak The pancakes are way better when they're fresh off the pan!"
-msgstr ""
+msgstr "@niko_speak Les pancakes sont bien meilleurs quand ils sortent tout juste de la poêle !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:2:text
 msgid "@niko_speak These are hazelnuts!"
-msgstr ""
+msgstr "@niko_speak Voici les noisettes !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:3:text
 msgid "@niko Mama always starts with this step, where she turns hazelnuts into hazelnut candy."
-msgstr ""
+msgstr "@niko Maman commence toujours par cette étape, où elle transforme les noisettes en noisettes confites."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:4:text
 msgid "@niko6 (you sprinkle them on top of the pancakes later)"
-msgstr ""
+msgstr "@niko6 (vous les saupoudrez sur les pancakes plus tard)"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:5:text
 msgid "@niko_eyeclosed She also says this recipe is pretty dangerous for a kid! \\>\\n...so I normally only help with the first steps."
-msgstr ""
+msgstr "@niko_eyeclosed Elle dit aussi que cette recette est dangereuse pour un enfant ! \\>\\n...alors normalement je l'aide lors des premières étapes."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:11:text
 msgid "@niko_speak First, I cut a piece of parchment paper with scissors and put it on a baking pan, or anything that's heat-proof."
-msgstr ""
+msgstr "@niko_speak First, Je coupe un morceau de papier sulfurisé avec des ciseaux et le met sur une plaque de cuisson où tout ce qui est résistant à la chaleur."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:12:text
 msgid "@niko5 Then, you need to get a knife and cutting board."
-msgstr ""
+msgstr "@niko5 Ensuite, vous avez besoin d'un couteau et d'une planche à découper."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:13:text
 msgid "@niko_eyeclosed I'm not old enough to use knives on my own either so you'll have to do this part."
-msgstr ""
+msgstr "@niko_eyeclosed Je suis pas assez vieux pour utiliser les couteaux moi même donc vous allez devoir faire cette partie."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:14:text
 msgid "@ling_smile Okay!"
-msgstr ""
+msgstr "@ling_smile d'accord !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:17:text
 msgid "@niko_speak Take about half a cup of hazelnuts-"
-msgstr ""
+msgstr "@niko_speak Prenez environ la moitier d'un verre de noisettes-"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:18:text
 msgid "@proto2 [65 grams.]"
-msgstr ""
+msgstr "@proto2 [65 grammes.]"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:20:text
 msgid "@niko_speak -and cut them up like this!"
-msgstr ""
+msgstr "@niko_speak -et coupez-les comme ceci !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:21:text
 msgid "@niko Then you pick out all these big pieces. \\>\\n\\@niko_eyeclosed You don't want the crumbs because they'll burn!"
-msgstr ""
+msgstr "@niko Puis vous prenez tous ces gros morceaux. \\>\\n\\@niko_eyeclosed Il ne faut pas que les miettes brûlent !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:22:text
 msgid "@niko_83c You can save the crumbs and just mix it with the hazelnut flour, though!"
-msgstr ""
+msgstr "@niko_83c Vous pouvez garder les miettes et les mélanger avec la farine de noisettes !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:23:text
 msgid "@ling_smile Smart!"
-msgstr ""
+msgstr "@ling_smile Ingénieux !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:26:text
 msgid "@niko_speak Now you need a frying pan!\\>\\n\\@niko_83c But not for pancakes!"
-msgstr ""
+msgstr "@niko_speak Maintenant vous aurez besoin d'une poêle à frire !\\>\\n\\@niko_83c Mais pas pour les pancakes !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:28:text
 msgid "@niko Toast the hazelnut pieces on the pan on low or medium heat for 5 minutes until they turn brown and smell nice."
-msgstr ""
+msgstr "@niko Faire griller les morceaux de noisettes dans la poêle à feu doux ou moyen pendant 5 minutes jusqu'à ce qu'ils brunissent et dégagent une bonne odeur."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:29:text
 msgid "@niko_speak Careful though! You don't want it to burn!"
-msgstr ""
+msgstr "@niko_speak Mais attention ! Vous ne voulez pas qu'ils brûlent"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:30:text
 msgid "@ling_smile They won't burn if I'm stirring them the whole time!"
-msgstr ""
+msgstr "@ling_smile Ils ne brûlent pas si je les remue tout le temps !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:35:text
 msgid "@ling2 Oh! I think it's just about done!"
-msgstr ""
+msgstr "@ling2 Oh ! Je pense que c'est bientôt prêt !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:36:text
 msgid "@niko_speak Whoa! That's fast!"
-msgstr ""
+msgstr "@niko_speak Wow ! C'était rapide !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:37:text
 msgid "@niko6 But it's only been 3 minutes..."
-msgstr ""
+msgstr "@niko6 Mais ça fait que 3 minutes..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:38:text
 msgid "@ling_smile All stoves and pans are a little different, so they heat up at different speeds!"
-msgstr ""
+msgstr "@ling_smile Toutes les cuisinières et les poêles sont légèrement différentes et chauffent donc à des vitesses différentes !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:42:text
 msgid "@niko_speak Ok, then you turn off the heat and dump out all the hazelnuts onto a plate or bowl."
-msgstr ""
+msgstr "@niko_speak Ok, ensuite, on éteint le feu et on jette toutes les noisettes dans une assiette ou un bol. "
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:43:text
 msgid "@ling_smile ...or just the counter if it's clean!"
-msgstr ""
+msgstr "@ling_smile ...ou juste le comptoir s'il est propre !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:44:text
 msgid "@niko6 Then you wipe down the pan really good with a damp towel to get rid of all the burnt bits..."
-msgstr ""
+msgstr "@niko6 Puis, il faut bien essuyer la poêle avec une serviette humide pour éliminer tous les morceaux brûlés..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:45:text
 msgid "@ling_smile You can put the pan back on the warm stove to evaporate off the water!"
-msgstr ""
+msgstr "@ling_smile Vous pouvez remettre la casserole sur la cuisinière chaude pour faire évaporer l'eau !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:46:text
 msgid "@ling You need the pan dry for the next step."
-msgstr ""
+msgstr "@ling La casserole doit être sèche pour l'étape suivante."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:49:text
 msgid "@niko Now the skin should be loose on the hazelnut pieces, so you can rub the pieces between your hands to get all the skin off!"
-msgstr ""
+msgstr "@niko Les morceaux de noisettes ne doivent plus avoir de peau, vous pouvez donc les frotter entre vos mains pour enlever toute la peau !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:50:text
 msgid "@niko6 Are they cool enough to touch yet?"
-msgstr ""
+msgstr "@niko6 Sont-ils assez froids pour être touchés ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:51:text
 msgid "@ling_smile Yeah!"
-msgstr "@ling_smile Oui !"
+msgstr "@ling_smile Ouais !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:52:text
 msgid "@niko_speak Ohh lemme do it! Mama always lets me do this part!"
@@ -2281,7 +2281,7 @@ msgstr "@niko_speak Et puis mélangez à la main une dernière fois avant de l'a
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:2:51:text
 msgid "@niko_speak Wrong bowl!\\n\\>\\@niko_eyeclosed We should do things in order."
-msgstr "@niko_speak Mauvais bol !\\n\\>\\@niko_eyeclosed On devrait faire les choses dans l'ordre.""
+msgstr "@niko_speak Mauvais bol !\\n\\>\\@niko_eyeclosed On devrait faire les choses dans l'ordre."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV022:3:1:text
 msgid "@niko_speak Mix this into the buttermilk!"
@@ -2593,7 +2593,7 @@ msgstr "@niko_83c Sauf moi !"
 
 #: Maps/INIT/init:1:32:text
 msgid "@niko_eyeclosed Ok that’s enough."
-msgstr "@niko_eyeclosed Ok, c'est assez."
+msgstr "@niko_eyeclosed Ok, ça suffit."
 
 #: Maps/Red sky/Cafe/EV004:1:1:text Maps/Red sky/Cafe/EV006:1:1:text
 msgid "CAFE"
@@ -2613,7 +2613,7 @@ msgstr "@niko_83c Pouvez-vous deviner ce que c'est ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:5:text
 msgid "@ling_hm2 Hmmm...."
-msgstr "@ling_hm3 Hmmm...."
+msgstr "@ling_hm2 Hmmm...."
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:6:text
 msgid "@ling Does it involve... a celebration cake?\\>\\n\\@ling_smile Of the pan variety?"
@@ -2817,7 +2817,7 @@ msgstr "@ling_smile Nous pouvons.... \\>t'apprendre comment faire ces pancakes q
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:3:41:text
 msgid "@alula_gasp NO I WANT TO TEACH *YOU* HOW TO MAKE MY FAVORITE FOOD!"
-msgstr ""@alula_gasp NON JE VEUX *T'APPRENDRE* COMMENT FAIRE MA NOURRITURE PRÉFÉRÉE !"
+msgstr "@alula_gasp NON JE VEUX *T'APPRENDRE* COMMENT FAIRE MA NOURRITURE PRÉFÉRÉE !"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:3:42:text
 msgid "@alula It does not have lava."
@@ -2961,7 +2961,7 @@ msgstr "@watcher (Je n'étais pas non plus là)"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:86:text
 msgid "@plight_worry I have no idea what you guys are talking about."
-msgstr "@plight_worry J'ai aucune idée de ce que vous dites.
+msgstr "@plight_worry J'ai aucune idée de ce que vous dites."
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:87:text
 msgid "@mason I'm just here for emotional support."
@@ -2989,7 +2989,7 @@ msgstr "@magpie_hm Mais c'était il Y A 10 ans...\\n\\>\\@magpie_smile tu penses
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:103:text
 msgid "(he doesn't)"
-msgstr "(il ne peux pas)""
+msgstr "(il ne le fait pas)"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:106:text
 msgid "@magpie_smile But I'm not gonna pass up an excuse to party!"
@@ -3129,7 +3129,7 @@ msgstr "@niko_eyeclosed Ils ne te rendent pas malade !"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:223:text
 msgid "@niko_83c ...unless you eat one hundred of them!"
-msgstr "@niko_83c ...sauf si tu en manges cent !""
+msgstr "@niko_83c ...sauf si tu en manges cent !"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:226:text
 msgid "@proto2 [5500 grams.]"
@@ -3298,4 +3298,3 @@ msgstr "Concept original de OneShot : Nightmargin, Eliza Velasquez, et GIRakaCHE
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:347:text
 msgid "SEE YOU NEXT TIME!"
 msgstr "À LA PROCHAINE FOIS !"
-
