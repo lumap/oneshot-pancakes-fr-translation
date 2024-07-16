@@ -135,6 +135,14 @@ msgstr "MARCHER"
 msgid "Press X to delete characters (default controls)"
 msgstr "Appuyez sur X pour supprimer un caractères (contrôles par défaut)"
 
+#: Scripts/Window_MainMenu:8
+msgid "Travel"
+msgstr "Voyager"
+
+#: Scripts/Window_MainMenu:9
+msgid "Notes"
+msgstr "Notes"
+
 #: Scripts/Window_MainMenu:135
 msgid "You cannot fast travel right now."
 msgstr "Vous ne pouvez pas voyager rapidement pour le moment."
