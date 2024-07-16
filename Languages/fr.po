@@ -509,7 +509,7 @@ msgstr "@ling_oh Je ne sais toujours pas ce que sont ses choses !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:39:text
 msgid "@ling_hm Like, amount-wise."
-msgstr "@ling_hm Like, en terme de montant."
+msgstr "@ling_hm Comme, en terme de montant."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:40:text
 msgid "@niko5 ...Maybe we need to get some help."
@@ -897,7 +897,7 @@ msgstr "@niko_eyeclosed Elle dit aussi que cette recette est dangereuse pour un 
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:11:text
 msgid "@niko_speak First, I cut a piece of parchment paper with scissors and put it on a baking pan, or anything that's heat-proof."
-msgstr "@niko_speak First, Je coupe un morceau de papier sulfurisé avec des ciseaux et le met sur une plaque de cuisson où tout ce qui est résistant à la chaleur."
+msgstr "@niko_speak Premièrement, Je coupe un morceau de papier sulfurisé avec des ciseaux et le met sur une plaque de cuisson où tout ce qui est résistant à la chaleur."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:12:text
 msgid "@niko5 Then, you need to get a knife and cutting board."
