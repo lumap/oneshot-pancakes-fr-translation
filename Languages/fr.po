@@ -389,7 +389,7 @@ msgstr "@niko_speak Bien sûr ! J'aide tout le temps maman en cuisine !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:4:text
 msgid "@niko_pancakes ESPECIALLY when making pancakes!"
-msgstr "@niko_pancakes SURTOUT lorsqu'il sagit de faire des pancakes ! "
+msgstr "@niko_pancakes SURTOUT lorsqu'il s'agit de faire des pancakes ! "
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:5:text
 msgid "@niko_83c I even wrote down the recipe!"
@@ -405,7 +405,7 @@ msgstr "@ling_hm Et... surprenamment lisible (pour des crayons)."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:13:text
 msgid "@niko_eyeclosed Like I said, these pancakes are VERY special! So I wrote a lot!"
-msgstr "@niko_eyeclosed Comme je l'ai dit, ces pancakes sont TRÈS spéciaux, "
+msgstr "@niko_eyeclosed Comme je l'ai dit, ces pancakes sont TRÈS spéciaux, donc j'ai beaucoup écrit !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:14:text
 msgid "@niko_pancakes It takes mama a long time to make, start to finish!"
@@ -425,7 +425,7 @@ msgstr "@niko_eyeclosed Dès fois... dans la vie... tu dois travailler dur..."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:18:text
 msgid "@ling Oh!\\> It says here that we would need \"cups\" of things?"
-msgstr "@ling Oh!\\> Ça dit ici qu'on aurait besoin de « verres » de choses ?"
+msgstr "@ling Oh !\\> Ça dit ici qu'on aurait besoin de « verres » de choses ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/ling:2:19:text
 msgid "@ling_hm What are....\\> \"cups\"?"
@@ -897,7 +897,7 @@ msgstr "@niko_eyeclosed Elle dit aussi que cette recette est dangereuse pour un 
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:11:text
 msgid "@niko_speak First, I cut a piece of parchment paper with scissors and put it on a baking pan, or anything that's heat-proof."
-msgstr "@niko_speak Premièrement, Je coupe un morceau de papier sulfurisé avec des ciseaux et le met sur une plaque de cuisson où tout ce qui est résistant à la chaleur."
+msgstr "@niko_speak Premièrement, je coupe un morceau de papier sulfurisé avec des ciseaux et le met sur une plaque de cuisson où tout ce qui est résistant à la chaleur."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:12:text
 msgid "@niko5 Then, you need to get a knife and cutting board."
@@ -905,7 +905,7 @@ msgstr "@niko5 Ensuite, vous aurez besoin d'un couteau et d'une planche à déco
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:13:text
 msgid "@niko_eyeclosed I'm not old enough to use knives on my own either so you'll have to do this part."
-msgstr "@niko_eyeclosed Je suis pas assez vieux pour utiliser les couteaux moi même donc vous allez devoir faire cette partie."
+msgstr "@niko_eyeclosed Je suis pas assez grand pour utiliser les couteaux moi même donc vous allez devoir faire cette partie."
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:14:text
 msgid "@ling_smile Okay!"
@@ -925,7 +925,7 @@ msgstr "@niko_speak -et coupez-les comme ceci !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:21:text
 msgid "@niko Then you pick out all these big pieces. \\>\\n\\@niko_eyeclosed You don't want the crumbs because they'll burn!"
-msgstr "@niko Puis vous prenez tous ces gros morceaux. \\>\\n\\@niko_eyeclosed Vousne voulez pas les miettes, car elles vont brûler !"
+msgstr "@niko Puis vous prenez tous ces gros morceaux. \\>\\n\\@niko_eyeclosed Vous ne voulez pas les miettes, car elles vont brûler !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV003:6:22:text
 msgid "@niko_83c You can save the crumbs and just mix it with the hazelnut flour, though!"
@@ -2329,7 +2329,7 @@ msgstr "@alula_gasp C'est encore mieux !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:19:text
 msgid "@alula Now get some yogurt and mix in some salt and uh, seasons."
-msgstr "@alula Maintenant, ramenez du yaourt et mélangez-y du sel, et uh, des saisonnements"
+msgstr "@alula Maintenant, ramenez du yaourt et mélangez-y du sel, et euh, des saisonnements"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV025:1:20:text
 msgid "@ling_smile Seasons?\\>\\nLike spring and summer?"
@@ -2489,7 +2489,7 @@ msgstr "@niko C'est un couteau.\\> \\@niko_speak C'est très dangereux !"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:6:text
 msgid "Light the candle?"
-msgstr "Allumer la bougit ?"
+msgstr "Allumer la bougie ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/Kitchen/EV035:1:34:text
 msgid "@ling Oh! While you were gone, I dug this thing out from storage!"
@@ -2577,7 +2577,7 @@ msgstr "@ling_smile Comme vous le savez, c'est le 10ème anniversaire de OneShot
 
 #: Maps/INIT/init:1:19:text
 msgid "@ling_oh (...well, the original version, anyway)"
-msgstr "@ling_oh (...et bien, la version originale, en tout cas)"
+msgstr "@ling_oh (...eh bien, la version originale, en tout cas)"
 
 #: Maps/INIT/init:1:21:text
 msgid "@ling_smile So I thought I'd decorate the cafe!"
@@ -2625,7 +2625,7 @@ msgstr "@niko_pancakes Comment le saviez-vous ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:8:text
 msgid "@ling_hm You uh.\\..\\..\\. literally told me a minute ago before the camera turned on."
-msgstr "@ling_hm Tu me l'as, uh.\\..\\..\\. littéralement dit il y a une minute avant d'avoir allumer la caméra."
+msgstr "@ling_hm Tu me l'as, euh.\\..\\..\\. littéralement dit il y a une minute avant d'avoir allumé la caméra."
 
 #: Maps/Red sky/Cafe/Cafe inside/ling:1:9:text
 msgid "@niko5 Oh right."
@@ -2849,7 +2849,7 @@ msgstr "@niko_speak J'aime les deux !"
 
 #: Maps/Red sky/Cafe/Cafe inside/EV006:1:3:text
 msgid "@niko_eyeclosed ...but not in coffee."
-msgstr "... mais pas dans le café."
+msgstr "@niko_eyeclosed ... mais pas dans le café."
 
 #: Maps/Red sky/Cafe/Cafe inside/EV007:1:1:text
 msgid "@Niko A coffee machine."
@@ -2913,7 +2913,7 @@ msgstr "@calamus_speak ...tu viens juste de remarquer ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:60:text
 msgid "@kip_wink I guess you could call it a birthday!"
-msgstr "@kip_wink Et bien, je pense que tu peux appeler ça un anniversaire !"
+msgstr "@kip_wink Eh bien, je pense que tu peux appeler ça un anniversaire !"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:61:text
 msgid "@kip It's the 10 year anniversary!"
@@ -3013,7 +3013,7 @@ msgstr "@niko_pancakes Quelle foule !"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:132:text
 msgid "@ling_shock I'll say!\\>\\n\\@ling Looks like I got a lot of cooking to do now, huh?"
-msgstr "@ling_shock Et bien !\\>\\n\\@ling On dirait que j'ai beaucoup de choses à cuisiner maintenant, non ?"
+msgstr "@ling_shock Eh bien !\\>\\n\\@ling On dirait que j'ai beaucoup de choses à cuisiner maintenant, non ?"
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:136:text
 msgid "@niko_pancakes Oh!! I'll help! I'll help!"
