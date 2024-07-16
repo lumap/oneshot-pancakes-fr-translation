@@ -3305,4 +3305,4 @@ msgstr "Concept original de OneShot : Nightmargin, Eliza Velasquez, et GIRakaCH
 
 #: Maps/Red sky/Cafe/Cafe inside/alula:1:347:text
 msgid "SEE YOU NEXT TIME!"
-msgstr "À LA PROCHAINE FOIS !\\n\\nTraduction française par Straky, Lumap\\net Technochips\\nRelecture : Happy et Priax"
+msgstr "À LA PROCHAINE FOIS !\\n\\nTraduction : Straky, Lumap et Technochips\\nRelecture : Happy et Priax"
