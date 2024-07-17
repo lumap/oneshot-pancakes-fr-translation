@@ -35,7 +35,7 @@ msgstr "invisible"
 #. actor name
 #: Actors:6
 msgid "Plight"
-msgstr "Pligue"
+msgstr "Plight"
 
 #. actor name
 #: Actors:7
