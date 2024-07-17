@@ -226,7 +226,7 @@ msgstr "Menu"
 #: settingsmenu.cpp:73
 msgctxt "TRSTR_KEYBIND_CANCEL"
 msgid "CANCEL"
-msgstr "ANNULRR"
+msgstr "ANNULER"
 
 #: settingsmenu.cpp:74
 msgctxt "TRSTR_KEYBIND_L"
